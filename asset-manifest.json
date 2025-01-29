@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Degital-Clock/static/css/main.f1b92ce8.css",
+    "main.js": "/Degital-Clock/static/js/main.daa622e3.js",
+    "static/js/488.4685e4b6.chunk.js": "/Degital-Clock/static/js/488.4685e4b6.chunk.js",
+    "static/media/court.jpg": "/Degital-Clock/static/media/court.e9d3b7d38bb5de90e3b0.jpg",
+    "index.html": "/Degital-Clock/index.html",
+    "main.f1b92ce8.css.map": "/Degital-Clock/static/css/main.f1b92ce8.css.map",
+    "main.daa622e3.js.map": "/Degital-Clock/static/js/main.daa622e3.js.map",
+    "488.4685e4b6.chunk.js.map": "/Degital-Clock/static/js/488.4685e4b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1b92ce8.css",
+    "static/js/main.daa622e3.js"
+  ]
+}
