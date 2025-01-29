@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.clock {
+  background-image: url("./court.jpg");
+  width: 100vw;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container {
+  font-size: 3rem;
+  padding: 10px;
+  color: aliceblue;
+  backdrop-filter: blur(20px);
+  border-radius: 10px;
+}
